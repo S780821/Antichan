@@ -15,17 +15,17 @@
     "env": {
       "BOT_TOKEN": {
         "description": "Bot token, get it from @BotFather",
-        "value": "",
+        "value": "6833748362:AAEEY3oOSjJ_IY6SUJ0X56U3vPIWibc3Y34",
         "required": true
       },
       "API_ID": {
         "description": "put ur api id",
-        "value": "",
+        "value": "6753110",
         "required": true
       },
       "API_HASH": {
         "description": "pur ur api hash",
-        "value": "",
+        "value": "e59755926248a4f9e7891750cbf9873b",
         "required": false
       }
   },
