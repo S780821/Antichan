@@ -1,5 +1,5 @@
 {
-    "name": "AntiChannelBan",
+    "name": "AntiChan",
     "description": "Best Anti Channel Ban Robots",
     "logo": "https://telegra.ph/file/d2a5ad71757a96a656b68.jpg",
     "keywords": [
@@ -9,7 +9,7 @@
         "BrayDanXD",
         "AntiChannelBan"
     ],
-    "repository": "https://GitHub.com/BrayDanXD/AntiChannelBan",
+    "repository": "https://GitHub.com/s780821/AntiChan",
     "website": "https://GitHub.com/BrayDanXD",
     "success_url": "https://t.me/Decodesupport",
     "env": {
